@@ -1,8 +1,9 @@
 # Introduction
 
-This is a simple paragraph of text. To start a new paragraph in LaTeX,
-you simply leave a blank line in your code. You can easily make text
-**bold** or *italics*.
+Moodle is a popular *Learning Management System* (LMS) tool to support
+teachers to give access to a variety of learning materials. In this
+project, we describe a *Application Programming Interface* (API) Gateway
+to send and extract data from this tool [@jessicaBrito-CISTI2021].
 
 # Mathematics
 
