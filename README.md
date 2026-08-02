@@ -6,7 +6,7 @@ assessments. This project introduces an *Application Programming
 Interface* (API) Gateway designed to facilitate seamless data exchange
 with the platform (Oliveira et al. 2021; Spalenza 2023).
 
-# References {#references .unnumbered}
+# References
 
 Oliveira, Elias, Jessica Brito, and James Alves. 2021. "[An Architecture
 for Massive Essays Evaluations]" *16th Iberian Conference on
