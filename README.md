@@ -8,11 +8,11 @@ with the platform (Oliveira et al. 2021; Spalenza 2023).
 
 # References
 
-Oliveira, Elias, Jessica Brito, and James Alves. 2021. "An Architecture
-for Massive Essays Evaluations" *16th Iberian Conference on
+Oliveira, Elias, Jessica Brito, and James Alves. 2021. "[An Architecture
+for Massive Essays Evaluations]" *16th Iberian Conference on
 Information Systems and Technologies (CISTI)* (Chaves, Portugal),
 December, 1--6.
 
-Spalenza, Marcos Alécio. 2023. "[$p$nota: Análise das Estruturas
+Spalenza, Marcos Alécio. 2023. "[*p*nota: Análise das Estruturas
 Textuais com *Active Learning* para Avaliação de Respostas
 Discursivas]" PhD thesis`\PPGI`{=latex},`\UFES`{=latex}.
